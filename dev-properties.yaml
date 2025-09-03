@@ -3,7 +3,7 @@ api:
 
 sapi:
   weatherSapi:
-    host: "sapi-weather-app-dev-nv9cfi.2ky31l-1.deu-c1.eu1.cloudhub.ioo"
+    host: "sapi-weather-app-dev-nv9cfi.2ky31l-1.deu-c1.eu1.cloudhub.io"
     protocol: "HTTPS"
     method: "GET"
     getWeatherCity:
