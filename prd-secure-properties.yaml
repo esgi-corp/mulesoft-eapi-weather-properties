@@ -2,3 +2,6 @@ sapi:
   weatherSapi:
     client_id: "![p2o4sdCvFhGlBGEwLsksgIGzRa1geAgwBtDsn0zr+9yiyi2X+XUdHQ==]"
     client_secret: "![CJ2RWhWudVfdB5Wk7Q0BQXCGIOG2X6mreD46nryvaJDlK1enu9c7oQ==]"
+
+kibana:
+  apikey: "![KsHy89rbzc9sN/mqn0yJjIy/ng56XAwDNeV5qDGBkt/pR6bNSCvQw5rAV1nGT/DsgRtuYgSIJhG3Scyb6UhAKg==]"
